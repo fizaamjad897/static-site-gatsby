@@ -14,5 +14,6 @@ module.exports = {
     },
     "gatsby-transformer-remark",
   ],
+  plugins: ["gatsby-plugin-react-helmet"],
   pathPrefix: "static-site-gatsby",
  };
